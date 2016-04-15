@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Lauden Angus N. Ilasin's Portfolio</title>
+		<title>Lauden's Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -441,7 +441,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<footer id="footer">
 				<ul class="icons">
 					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="laudenilasin@github.com" class="icon fa-github"><span class="label">Github</span></a></li>
 					<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 				</ul>
